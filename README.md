@@ -2,7 +2,7 @@
 Helps you perfectly temper milk chocolate on an Ender 3
 
 
-#!! NEVER EXCEED 50°c ON THE PRINTER BED!!
+# !! NEVER EXCEED 50°c ON THE PRINTER BED!!
 
 *Make sure your room temperature is at or below 80°F. It will be very difficult to cool your chocolate properly otherwise*
 
